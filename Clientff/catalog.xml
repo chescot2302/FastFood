@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.1.69:8585/fastfoodservice/wsfastfood?wsdl" uri="xml-resources/web-service-references/wsfastfood/wsdl/192.168.1.69_8585/fastfoodservice/wsfastfood.wsdl"/>
+    <system systemId="http://192.168.1.69:8585/fastfoodservice/wsfastfood?xsd=1" uri="xml-resources/web-service-references/wsfastfood/wsdl/192.168.1.69_8585/fastfoodservice/wsfastfood.xsd_1.xsd"/>
+    <system systemId="http://localhost:8585/fastfoodservice/wsfastfood?wsdl" uri="xml-resources/web-service-references/wsfastfood/wsdl/localhost_8585/fastfoodservice/wsfastfood.wsdl"/>
+    <system systemId="http://localhost:8585/fastfoodservice/wsfastfood?WSDL" uri="xml-resources/web-service-references/wsfastfood/wsdl/localhost_8585/fastfoodservice/wsfastfood.wsdl"/>
+    <system systemId="http://localhost:8585/fastfoodservice/wsfastfood?xsd=1" uri="xml-resources/web-service-references/wsfastfood/wsdl/localhost_8585/fastfoodservice/wsfastfood.xsd_1.xsd"/>
+</catalog>
