@@ -3,6 +3,8 @@ WebService FastFood.
 FastFood es un caso de estudio, donde se implenta un ejemplo de webservice.
 
 Plataforma Tecnologica:
+	- JDK 7
+	- Netbeans 8.x
 	- GlassFish 4.x
 	- Webservice en J2EE.
 	- Cliente Web en J2SE.
