@@ -6,5 +6,11 @@ Plataforma Tecnologica:
 	- GlassFish 4.x
 	- Webservice en J2EE.
 	- Cliente Web en J2SE.
+	- Oracle 11g r2
+
+En la carpeta encontraras:
+	- Clientff es el cliente que consume los servicios del webservice.
+	- fastfoodservice es el webservice.
+	- Crear usuario Oracle y ejecutar script export.sql
 
 Este ejemplo fue desarrollador por @jofrantoba
